@@ -7,8 +7,8 @@ Two models are made:
 - Weibull hierarchical model for division the analysis for specific institutions
 
 Structure:
-- Data description and EDA:
-- Model description:
-- Weibull model (incl. censored) in Stan:
-- Weibull model (incl. censored) run and convergence analysis:
+- Data description and EDA: description.rmd
+- Model description: weibull.Rmd
+- Weibull model (incl. censored) in Stan: weibull_censored.stan
+- Weibull model (incl. censored) run and convergence analysis: weibull_censored.R
 - Weibull hierarchical model (incl. censored):
