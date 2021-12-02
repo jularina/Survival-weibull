@@ -11,4 +11,4 @@ Structure:
 - Model description: weibull.Rmd
 - Weibull model (incl. censored) in Stan: weibull_censored.stan
 - Weibull model (incl. censored) run and convergence analysis: weibull_censored.R
-- Weibull hierarchical model (incl. censored):
+- Weibull hierarchical model (incl. censored): weibull_hier.stan
